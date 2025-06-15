@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hello this is my first next.js project
 
 # I HAVE CREATED THE THIRD PROBLEM STATEMENT OF HACKATHON
@@ -105,3 +106,7 @@
 
             ** set up for qr code 
             ** npm install react-qr-code .
+=======
+# webteamhackathon
+A Hackathon Conducted by Webteam .
+>>>>>>> 1c0d251b3c899e90b09ce5c0016d4730fbf2026e
