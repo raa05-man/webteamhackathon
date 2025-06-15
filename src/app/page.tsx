@@ -1,4 +1,5 @@
-
+import Image from "next/image";
+import Stack from '@mui/material/Stack';
 import Button from '@mui/material/Button';
 import Link from "next/link";
 export default function Home() {
@@ -17,7 +18,7 @@ export default function Home() {
                          transition-transform duration-500 hover:scale-105 "/>
            </div>           
         </div> 
-                <Link href="/prelogin"><Button variant="outlined"className="px-6 py-3 text-sm md:text-base" >Enter</Button></Link>
+                <Link href="/home"><Button variant="outlined"className="px-6 py-3 text-sm md:text-base" >Enter</Button></Link>
     </div>
 
 
